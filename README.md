@@ -16,4 +16,10 @@ These are config files for my arch station that I like! Hope you like it 😻
 
 ### screenshots 
 
+![alt text](https://github.com/vyshnavlal/dotfiles/blob/master/screenshot2.png?raw=true)
+
+![alt text](https://github.com/vyshnavlal/dotfiles/blob/master/screenshot_003.png?raw=true)
+
 ![alt text](https://github.com/vyshnavlal/dotfiles/blob/master/screenshot1.png?raw=true)
+
+![alt text](https://github.com/vyshnavlal/dotfiles/blob/master/screenshot_004.png?raw=true)
